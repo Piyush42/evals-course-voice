@@ -16,7 +16,7 @@ But you can also build your own! This repo shows one way to do that.
 
 ## A note on models used, here
 
-The bot files here use Deepgram for realtime transcription, OpenAI GTP-4o for the LLM, and Cartesia for voice generation. This is a very common production voice AI stack. I wanted these bots to be simple versions of code you would actually use in production.
+The bot files here use Deepgram for realtime transcription, OpenAI GPT-4o for the LLM, and Cartesia for voice generation. This is a very common production voice AI stack. I wanted these bots to be simple versions of code you would actually use in production.
 
 You can swap out other models. See the [Pipecat docs](https://docs.pipecat.ai/) and [single-file examples](https://github.com/pipecat-ai/pipecat/tree/main/examples/foundational) for more info.
 
